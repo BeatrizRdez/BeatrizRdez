@@ -1,5 +1,5 @@
 
-### console.log("Bienvenido a mi perfil) <img src="https://user-images.githubusercontent.com/99143633/166333569-8a56944e-680f-48d0-9f9c-66a7ec25c9d0.gif" width="48">
+# console.log("Bienvenido a mi perfil") <img src="https://user-images.githubusercontent.com/99143633/166333569-8a56944e-680f-48d0-9f9c-66a7ec25c9d0.gif" width="48">
 
 
 <!--
